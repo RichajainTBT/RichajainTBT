@@ -68,6 +68,7 @@
 
 ### 🧪 Personal Projects
 
+- 🍔 **Tasty Burger**: [Live Preview](https://richajaintbt.github.io/tasty_burger/) – A visually appealing, responsive food ordering UI project  
 - 🌤️ **Weather App**: React + API → Real-time weather data by city  
 - 📰 **News Portal CMS**: PHP + MySQLi, category-based role CMS  
 - 🎨 **Figma UI Design**: [Nutriburst Vitamins](https://www.figma.com/design/7zRwqFXxQXXD9OyPLJgkGb/Nutriburstvitamins-Website-Home-page?node-id=0-1&node-type=canvas)
