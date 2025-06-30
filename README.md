@@ -9,21 +9,21 @@
 
 ### 👩‍💻 About Me
 
-- 🌟 A passionate UI/UX developer with hands-on experience in **React, Bootstrap, JavaScript**, and responsive design
-- 👩‍💼 Currently leading a front-end team to deliver scalable, performance-oriented solutions
-- 🌱 Currently exploring **MERN Stack**, **MySQL**
-- 🤝 Open to collaborating on **Open Source Projects**
-- 🧠 Always curious about new technologies and creative UI trends
-- 💬 Ask me about `React`, `Bootstrap`, `MySQL`, `MongoDB`, or `Design Thinking`
+- 🌟 A passionate UI/UX developer with hands-on experience in **React, Bootstrap, JavaScript**, and responsive design  
+- 👩‍💼 Currently leading a front-end team to deliver scalable, performance-oriented solutions  
+- 🌱 Currently exploring **MERN Stack**, **MySQL**  
+- 🤝 Open to collaborating on **Open Source Projects**  
+- 🧠 Always curious about new technologies and creative UI trends  
+- 💬 Ask me about `React`, `Bootstrap`, `MySQL`, `MongoDB`, or `Design Thinking`  
 
 ---
 
 ### 💼 Work Experience
 
 - **Sr. UI/UX Developer (Team Leader)**  
-  *Binplus Technology Pvt. Ltd. | Feb 2023 – Present*
+  *Binplus Technology Pvt. Ltd. | Feb 2023 – Present*  
 - **UI/UX Developer**  
-  *Binplus Technology Pvt. Ltd. | July 2021 – Feb 2023*
+  *Binplus Technology Pvt. Ltd. | July 2021 – Feb 2023*  
 - **Web Designer**  
   *Binplus Technology Pvt. Ltd. | Aug 2019 – July 2021*
 
@@ -71,7 +71,9 @@
 - 🍔 **Tasty Burger**: [Live Preview](https://richajaintbt.github.io/tasty_burger/) – A visually appealing, responsive food ordering UI project  
 - 🌤️ **Weather App**: React + API → Real-time weather data by city  
 - 📰 **News Portal CMS**: PHP + MySQLi, category-based role CMS  
+- 🧠 **Google Gemini Clone**: [Live Demo](https://google-geminiclone.netlify.app/) – Built entirely in React.js to simulate Gemini AI UI  
 - 🎨 **Figma UI Design**: [Nutriburst Vitamins](https://www.figma.com/design/7zRwqFXxQXXD9OyPLJgkGb/Nutriburstvitamins-Website-Home-page?node-id=0-1&node-type=canvas)
+- 🧾 **My Portfolio**: [richajain.netlify.app](https://richajain.netlify.app/) – A sleek portfolio showcasing my experience, projects, and design aesthetic  
 
 ---
 
@@ -98,7 +100,8 @@
 ### 📫 Connect With Me
 
 - 📧 Email: [richajain8550@gmail.com](mailto:richajain8550@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/richa-jain-a7a124193](https://www.linkedin.com/in/richa-jain-a7a124193)
+- 💼 LinkedIn: [linkedin.com/in/richa-jain-a7a124193](https://www.linkedin.com/in/richa-jain-a7a124193)  
+- 🌐 Portfolio: [richajain.netlify.app](https://richajain.netlify.app/)
 
 ---
 
